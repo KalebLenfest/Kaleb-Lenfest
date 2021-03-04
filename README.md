@@ -4,12 +4,17 @@ MTA 98-361 MICROSOFT C# CERTIFICATION
 
 MTA 98-381 MICROSOFT PYTHON CERTIFICATION
 
-### Markdown
+### Personal information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+I am a junior developer mostly dealing with object oriented languages as well as minor skills in web based services.
+My short list of languages from most to least known is
+-C#
+-Python
+-Kotlin
+-Java
+-Javascript
+-HTML
+-CSS
 
 # Header 1
 ## Header 2
